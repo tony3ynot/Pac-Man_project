@@ -1,4 +1,4 @@
-#include "Score.h"
+#include "headers/Score.h"
 
 int Score::highScore = 0;
 
