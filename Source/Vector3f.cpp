@@ -1,4 +1,4 @@
-#include "Vector3f.h"
+#include "headers/Vector3f.h"
 
 Vector3f::Vector3f(){
     pos[0] = 0.0f;
