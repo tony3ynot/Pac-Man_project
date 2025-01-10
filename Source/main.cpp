@@ -1,11 +1,11 @@
-#include "Constants.h"
-#include "Shape2D.h"
-#include "Pacman.h"
-#include "Ghost.h"
-#include "CollisionHandler.h"
-#include "Life.h"
-#include "Score.h"
-#include "Sound.h"
+#include "headers/Constants.h"
+#include "headers/Shape2D.h"
+#include "headers/Pacman.h"
+#include "headers/Ghost.h"
+#include "headers/CollisionHandler.h"
+#include "headers/Life.h"
+#include "headers/Score.h"
+#include "headers/Sound.h"
 
 enum GameState { SCORE, START, PLAYING, WIN };
 GameState currState = START;
