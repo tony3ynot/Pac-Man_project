@@ -1,5 +1,5 @@
-#include "Player.h"
-#include "Ghost.h"
+#include "headers/Player.h"
+#include "headers/Ghost.h"
 
 Player::Player(float r) : Shape2D(), radius(r) {
     idxPos[0] = 0;
