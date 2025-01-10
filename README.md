@@ -11,7 +11,7 @@ Submitted as a final project for _SNU Fall 2024 Programming Methodology lecture 
 Co-developed with [Ji Yoon, Kim](https://github.com/tarakae), fellow student in SNU.
 
 **Dependencies:**
--C++ 14
--OpenGL 2.0
--irrKlang 1.6
--Sound effects downloaded from https://classicgaming.cc/classics/pac-man/sounds & https://freesound.org/
+- C++ 14
+- OpenGL 2.0
+- irrKlang 1.6
+- Sound effects downloaded from https://classicgaming.cc/classics/pac-man/sounds & https://freesound.org/
