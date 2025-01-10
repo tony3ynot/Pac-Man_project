@@ -1,4 +1,4 @@
-#include "CollisionHandler.h"
+#include "headers/CollisionHandler.h"
 
 // Wall, Gate collision
 void CollisionHandler::operator()(Player& player, const Map& map) {
