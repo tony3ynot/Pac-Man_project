@@ -1,4 +1,4 @@
-#include "Sound.h"
+#include "headers/Sound.h"
 
 Sound::Sound() {
     engine = createIrrKlangDevice();
