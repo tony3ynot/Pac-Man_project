@@ -8,6 +8,8 @@ Implemented map, game rules, ghost AI algorithms similar to the original game as
 
 Submitted as a final project for _SNU Fall 2024 Programming Methodology lecture by Prof. Ko, Hyeongseok._
 
+If you want to play my game, download *Pacman_exe* folder and execute .exe file.
+
 
 **Contributors:**
 
