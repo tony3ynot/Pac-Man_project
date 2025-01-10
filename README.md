@@ -3,12 +3,16 @@
 ![iMRxbytea9QJWQ9jAq6_AIJe2OP-rVQN_g-YJ6FguhVNJYiSl9GZHhFSCHHdUgR_XoAQLVDO_pTHBUIUIkPYsQ](https://github.com/user-attachments/assets/f9975e46-5f1b-4a0f-b85f-a65473227e8a)
 
 Implementation of Pac-Man game, originally developed and released by Namco in 1980.
+
 Implemented map, game rules, ghost AI algorithms similar to the original game as possible.
 
 Submitted as a final project for _SNU Fall 2024 Programming Methodology lecture by Prof. Ko, Hyeongseok._
 
+
 **Contributors:**
+
 Co-developed with [Ji Yoon, Kim](https://github.com/tarakae), fellow student in SNU.
+
 
 **Dependencies:**
 - C++ 14
