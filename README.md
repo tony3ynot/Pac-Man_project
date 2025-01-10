@@ -15,6 +15,7 @@ Co-developed with [Ji Yoon, Kim](https://github.com/tarakae), fellow student in 
 
 
 **Dependencies:**
+- Windows / Linux setting
 - C++ 14
 - OpenGL 2.0
 - irrKlang 1.6
