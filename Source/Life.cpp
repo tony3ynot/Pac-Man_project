@@ -1,4 +1,4 @@
-#include "Life.h"
+#include "headers/Life.h"
 
 Life::Life() : remainingLives(3) {}
 
