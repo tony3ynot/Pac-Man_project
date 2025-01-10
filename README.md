@@ -11,6 +11,11 @@ Submitted as a final project for _SNU Fall 2024 Programming Methodology lecture 
 If you want to play my game, download [Pacman_exe](https://downgit.github.io/#/home?url=https://github.com/tony3ynot/Pac-Man_project/tree/main/Pacman_exe) folder and execute .exe file.
 
 
+**Playthrough video**
+<img src="https://github.com/user-attachments/assets/24aac8b5-a56d-433d-a069-fd2f0093e73c" width="500">
+
+
+
 **Contributors:**
 
 Co-developed with [Ji Yoon, Kim](https://github.com/tarakae), fellow student in SNU.
