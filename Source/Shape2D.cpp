@@ -1,4 +1,4 @@
-#include "Shape2D.h"
+#include "headers/Shape2D.h"
 
 Shape2D::Shape2D() : center(0.0f, 0.0f, 0.0f), velocity(0.0f, 0.0f, 0.0f) {}
 
