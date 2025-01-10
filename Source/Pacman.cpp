@@ -1,4 +1,4 @@
-#include "Pacman.h"
+#include "headers/Pacman.h"
 
 Pacman::Pacman(float r, bool bCol) : Player(r), bCollided(bCol) {}
 
