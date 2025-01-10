@@ -1,4 +1,4 @@
-#include "Ghost.h"
+#include "headers/Ghost.h"
 
 Ghost::Ghost(float r, TYPE t, STATE s) : Player(r), type(t), state(s) {}
 
