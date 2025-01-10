@@ -1,4 +1,4 @@
-#include "CollisionDetector.h"
+#include "headers/CollisionDetector.h"
 
 CollisionDetector::CollisionType CollisionDetector::operator()(const Player& player, const Map& map) const {
     int currX = player.getXIndex();
